@@ -31,7 +31,7 @@ app.get(/^(.+)$/, function(req, res) { //file server for the rest of the files i
 
 
 
-var server = app.listen(3002, '0.0.0.0',  function () {
+var server = app.listen(3003, '0.0.0.0',  function () {
 
     var host = server.address().address;
     var port = server.address().port;
