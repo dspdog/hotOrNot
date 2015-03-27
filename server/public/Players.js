@@ -110,8 +110,8 @@ var players = [
         rating: 1400
     },
     {
-        name: "DAQRI",
-        img: "porterhouse.png",
+        name: "Microsoft",
+        img: "microsoft.jpeg",
         rating: 1400
     },
     {
