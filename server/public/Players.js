@@ -4,123 +4,120 @@
 
 var players = [
     {
-        name: "Ben",
+        name: "Uber",
         rating: 1400
     },
     {
-        name: "Ty",
+        name: "Jawbone",
         rating: 1400
     },
     {
-        name: "Kanye",
+        name: "Amazon & Amazon Prime",
         rating: 1400
     },
     {
-        name: "Pawel",
+        name: "Valencell",
         rating: 1400
     },
     {
-        name: "Jay-Z",
+        name: "T-Mobile",
         rating: 1400
     },
     {
-        name: "Randy",
+        name: "mParticle",
         rating: 1400
     },
     {
-        name: "Fabio",
+        name: "Magic Leap",
         rating: 1400
     },
     {
-        name: "Sliced Bread",
+        name: "Formlabs",
         rating: 1400
     },
     {
-        name: "Wolverine",
+        name: "Tesla",
         rating: 1400
     },
     {
-        name: "IronMan",
+        name: "Bionym",
         rating: 1400
     },
     {
-        name: "Mexico",
+        name: "Personal BlackBox",
         rating: 1400
     },
     {
-        name: "Soylent",
+        name: "#Slack",
         rating: 1400
     },
     {
-        name: "Beer",
+        name: "Corning",
         rating: 1400
     },
     {
-        name: "Keyboard Cat",
+        name: "Open Garden",
         rating: 1400
     },
     {
-        name: "Grumpy Cat",
+        name: "TaskRabbit",
         rating: 1400
     },
     {
-        name: "Randy's Music",
+        name: "Google",
         rating: 1400
     },
     {
-        name: "Ty's T-Shirts",
+        name: "ODesk",
         rating: 1400
     },
     {
-        name: "Raffi's Pickled Herring",
+        name: "Minecraft",
         rating: 1400
     },
     {
-        name: "Pizza",
+        name: "Samsung",
+        rating: 1400
+    },
+
+    {
+        name: "Stratasys/MakerBot",
         rating: 1400
     },
     {
-        name: "Tacos",
+        name: "Zapier",
         rating: 1400
     },
     {
-        name: "Foozball",
+        name: "DAQRI",
         rating: 1400
     },
     {
-        name: "Tequila",
+        name: "Hubspot",
         rating: 1400
     },
     {
-        name: "Nerf Guns",
+        name: "Google AppsScript",
         rating: 1400
     },
     {
-        name: "Roller Coasters",
+        name: "LinkedIn",
         rating: 1400
     },
     {
-        name: "Chips and Dip",
+        name: "Kaggle",
         rating: 1400
     },
     {
-        name: "Cookies",
+        name: "Khan Academy",
         rating: 1400
     },
     {
-        name: "N*SYNC",
+        name: "Twitter",
         rating: 1400
     },
     {
-        name: "Backstreet Boys",
-        rating: 1400
-    },
-    {
-        name: "Crazy Ivan",
-        rating: 1400
-    },
-    {
-        name: "The New Foozball Ball",
+        name: "Epson hack job of Glass",
         rating: 1400
     },
 ]
