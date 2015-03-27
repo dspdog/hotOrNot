@@ -14,10 +14,14 @@ function pluckTwoPlayers(){
         rightOption=randomPlayer();
     }
 
-    $("#player1").text(leftOption.name);
-    $("#player2").text(rightOption.name);
+    $("#player1").html(generateImg(leftOption.img) + leftOption.name);
+    $("#player2").html(generateImg(rightOption.img) + rightOption.name);
 
     buildResultsTable();
+}
+
+function generateImg(name){
+    return "<img src ='NAME' style='max-height: 200px; max-width: 200px' />".replace("NAME","img/" + name)+"<BR/>";
 }
 
 function buildResultsTable(){
