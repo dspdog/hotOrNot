@@ -1,0 +1,66 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.box1{
+    font-size: 32px;
+    font-family: Arial;
+    top:50%;
+    left: 50%;
+    position: absolute;
+}
+
+.leftbox{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    left: 0px;
+    top: 0px;
+    background: #44bbcc;
+    cursor: pointer;
+}
+
+.rightbox{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    right: 0px;
+    top: 0px;
+    background: #bbeeff;
+    cursor: pointer;
+}
+
+.bottombox{
+    position: absolute;
+    width: 100%;
+    height: 1000px;
+    left:0px;
+    top:50%;
+    background: #88dddd;
+    cursor: pointer;
+    padding: 14px;
+    font-family: Arial;
+    font-size: 24px;
+}
+
+#results{
+    margin-left: 20px;
+    font-family: Arial;
+    font-size: 24px;
+}
+
+.thetitle{
+
+    font-variant: small-caps;
+
+    font-family: Arial;
+    font-size: 64px;
+
+    position: absolute;
+    text-align: center;
+    width: 512px;
+    left: 50%;
+    margin-left: -256px;
+    top: 50px;
+}
